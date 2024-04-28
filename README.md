@@ -15,4 +15,5 @@ Make ChatGPT act differently, jailbreak it, or make the bot break.
 - [x] Update README.md
 - [x] Add on to the Gen Alpha modification
 - [x] Add the jailbreaks
-- [ ] Organize the prompts into folders
+- [x] Organize the prompts into folders
+- [ ] Add "bot breaking" prompt
